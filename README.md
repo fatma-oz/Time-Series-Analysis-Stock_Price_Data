@@ -5,7 +5,7 @@
 
 * In these projects, Bitcoin, Google Stock Price and Yahoo Finance data were used.
 
-* Bitcoin forecasting with LSTM and layer models
+* Bitcoin Forecasting with LSTM and layer models
     * keras,mean_squared_error, r2_score
 
 * Bitcoin Forecasting with Prophet library
@@ -14,5 +14,5 @@
 * Google Stock Price Forecasting with layers
     * keras, mean_absolute_error, hyperparameter optimization
    
-* Yahoo finance analysis with Moving Average Method
+* Yahoo Finance analysis with Moving Average Method
     * function that generates a buy and sell signal
