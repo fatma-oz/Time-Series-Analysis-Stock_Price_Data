@@ -1,10 +1,11 @@
 # Stock Price Prediction
 
-* In these projects, Bitcoin, Google Stock Price and Yahoo Finance data were used.
 
 * Time Series Analysis
 * Data preprocessing and EDA
 * Modelling and Model evaluation
+
+*In these projects, Bitcoin, Google Stock Price and Yahoo Finance data were used.
 
 * Bitcoin forecasting with LSTM and layer models
     * keras,mean_squared_error, r2_score
