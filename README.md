@@ -1,5 +1,5 @@
 
-# Time Series Analysis
+# Time Series Analysis - Stock Price Prediction
 * Data preprocessing and EDA
 * Modelling and Model evaluation
 
